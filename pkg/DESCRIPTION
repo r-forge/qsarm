@@ -1,8 +1,8 @@
 Package: qsarm
 Type: Package
 Title: QSAR Metrics
-Version: 1.1
-Date: 2012-11-27
+Version: 1.2
+Date: 203-07-23
 Authors@R: c(person("Rodolpho C. Braga", "Developer", role = c("aut", "cre"),
                           email = "rodolpho.braga@icloud.com"),
                    person("Carolina H. Andrade", "Developer", role = c("ctb", "cph"), email = "carolina@farmacia.ufg.br"))     
