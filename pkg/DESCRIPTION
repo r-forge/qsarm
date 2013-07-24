@@ -1,14 +1,14 @@
 Package: qsarm
 Type: Package
 Title: QSAR Metrics
-Version: 1.2
+Version: 1.3
 Date: 203-07-23
 Authors@R: c(person("Rodolpho C. Braga", "Developer", role = c("aut", "cre"),
                           email = "rodolpho.braga@icloud.com"),
                    person("Carolina H. Andrade", "Developer", role = c("ctb", "cph"), email = "carolina@farmacia.ufg.br"))     
 Author: Rodolpho C. Braga, with contributions from Carolina H. Andrade
 Maintainer: Rodolpho C. Braga <rodolpho.braga@icloud.com>
-Depends: R (>= 2.10), qsarr
+Depends: R (>= 2.10),lattice, car
 Description: Implementation of the classical metrics for QSAR like Q2 and R2 and set of novel rm2 metrics.
 License: BSD
 URL: http://qsarr.r-forge.r-project.org
